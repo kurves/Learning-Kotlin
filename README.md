@@ -47,11 +47,19 @@ You cannot reassign the value of val
 
 You can reassign he value of a var
 
-Example
+Example using var
 
 ```
 fun main(){
 
 var name = kurves'
+}
+```
+Example using val
+
+```
+fun main(){
+
+val age =28
 }
 ```
