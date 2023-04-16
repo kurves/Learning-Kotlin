@@ -33,3 +33,16 @@ func main() {
 
 println('Hello World')
 }
+```
+
+####Specifying identifiers in Kotlin
+
+We can specifting identifiers using val and var
+
+**Val** Val is immutable use this for value that do not change 
+
+You cannot reassign the value of val
+
+**Var** is mutable use  this for variables that change during runtime
+
+You can reassign he value of a var
