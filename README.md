@@ -24,3 +24,12 @@ Multi line comments start with a forward slash and an asterisk /* and end with a
 /* This ia s multi line 
 comment 
 */
+
+```
+A function tha prints hello world
+
+```
+func main() {
+
+println('Hello World')
+}
