@@ -35,9 +35,9 @@ println('Hello World')
 }
 ```
 
-####Specifying identifiers in Kotlin
+#### Specifying identifiers in Kotlin
 
-We can specifting identifiers using val and var
+We can specify identifiers using the following keywords : val and var
 
 **Val** Val is immutable use this for value that do not change 
 
@@ -46,3 +46,12 @@ You cannot reassign the value of val
 **Var** is mutable use  this for variables that change during runtime
 
 You can reassign he value of a var
+
+Example
+
+```
+fun main(){
+
+var name = kurves'
+}
+```
