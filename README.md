@@ -61,5 +61,7 @@ Example using val
 fun main(){
 
 val age =28
+age =age +2
+age+=2
 }
 ```
