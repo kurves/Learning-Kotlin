@@ -13,3 +13,9 @@ Type tells Kotlin how we intend to use the data
 - **String** - Sequence of characters
 
 Kotlin can also figure out the type for for us in what is callled type inference
+
+We can also bemore verbose and speify the type
+
+```
+var age: int = 26
+```
