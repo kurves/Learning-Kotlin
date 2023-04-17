@@ -14,7 +14,7 @@ Example of a block body function
 
 ```
 
-fun addTwo(x:int): int {
+fun addTwo(x:Int): Int {
  return x +2
  }
  
@@ -22,3 +22,9 @@ fun addTwo(x:int): int {
  //returns 7
  ```
  
+Example of an xpression body function
+
+```
+fun addTwo(x:Int):Int = x+2
+
+```
