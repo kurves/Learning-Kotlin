@@ -25,5 +25,7 @@ Example
  IF you want to enforce a certain execution order use paranthesis
  
  
+ ### Maximum Values
  
+ Kotlin's Int type can take values between -2<sup>31</sup> and +2<sup>31</sup>-1, a constraint of the Int 32-bit representation
  
