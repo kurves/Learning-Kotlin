@@ -43,3 +43,4 @@ val age =8L
 val age: Long = 6
 
 ```
+Long.MAX_VALUE is the largest value a Long can hold.
