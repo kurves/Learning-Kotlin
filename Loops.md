@@ -18,4 +18,10 @@ print("-")
 i+=10
 }
 ````
+You can also use while with do 
 
+```
+do {
+  // Code to be repeated
+} while (Boolean-expression)
+```
