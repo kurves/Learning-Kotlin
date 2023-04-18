@@ -18,6 +18,11 @@ Example
  The basic Operators for numbers are addition, multiplication, subtraction, modulusand division.
  
  Integer Division produces a truncated result 
+ Use double to prevent truncation and providing wrong results.
+ 
+ The order of the execution follows the basic mathematical order
+ 
+ IF you want to enforce a certain execution order use paranthesis
  
  
  
