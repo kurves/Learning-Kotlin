@@ -35,3 +35,11 @@ Int.MAX_VALUE is a predefined value which is the largest number an Int can hold.
 - Long
 
 Long  which accommodate values from -2<sup>63</sup> to +2<sup>63</sup>-1
+
+Specify Long by using;
+
+```
+val age =8L
+val age: Long = 6
+
+```
