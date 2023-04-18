@@ -26,6 +26,12 @@ Example
  
  
  ### Maximum Values
+ - Int
  
  Kotlin's Int type can take values between -2<sup>31</sup> and +2<sup>31</sup>-1, a constraint of the Int 32-bit representation
  
+Int.MAX_VALUE is a predefined value which is the largest number an Int can hold.
+
+- Long
+
+Long  which accommodate values from -2<sup>63</sup> to +2<sup>63</sup>-1
