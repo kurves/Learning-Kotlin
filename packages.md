@@ -17,10 +17,15 @@ In Kotlin, the package name can be independent from the directory where its cont
 An import statement brings one or more names into the current namespace:
 
 ```
-import com.yoururl.libraryname
+import com.yoururl.libraryname.*
 
 fun main() {
 
 val x = math()
 
 ````
+The star tells Kotlin to import all components of the library.
+
+The components can also be selected individually
+
+
