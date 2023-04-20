@@ -22,3 +22,13 @@ Example
 ```
 class Animal
 ````
+
+Example 
+
+- Class with properties
+
+```
+class Animal{
+var dog ='Bosco'
+}
+```
