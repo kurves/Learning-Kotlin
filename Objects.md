@@ -15,3 +15,10 @@ Objects contain val and var  to store data called properties and fuctions to per
 A class definition contains the *class* keyword , name for the class and an optional body.
 
 The body contains the *properties* and the *member functions*
+
+Example
+
+- An empty animal class
+```
+class Animal
+````
