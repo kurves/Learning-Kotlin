@@ -45,3 +45,13 @@ println("Woof ! Woof !"
 }
 }
 ```
+
+### Constructors
+
+A constructor is used to create new objects
+
+A constructior returns an object of the class
+
+
+
+
