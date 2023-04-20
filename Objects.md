@@ -52,6 +52,16 @@ A constructor is used to create new objects
 
 A constructior returns an object of the class
 
+### Constraining Visibility
 
+Kotlin provides access modifiers 
 
+These allow components designers to decide on what is available to the client programmer
+
+The access modifiers include:
+
+- Public - A public definition is available to everyone
+- Private - Only available within that file 
+- Protected
+- Internal
 
