@@ -32,3 +32,16 @@ class Animal{
 var dog ='Bosco'
 }
 ```
+
+Example 
+
+- Class with member functions
+
+```
+class Animal{
+var dog = 'Bosco'
+fun bark(){
+println("Woof ! Woof !"
+}
+}
+```
